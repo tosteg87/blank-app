@@ -7,7 +7,7 @@ from app import app
 
 def start():
     #app.run(host='0.0.0.0', port=port, debug=True)
-    app.run()
+    app.run(debug=True)
 
 if __name__ == '__main__':
     t = Thread(target=start)
