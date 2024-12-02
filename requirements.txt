@@ -1,1 +1,10 @@
-streamlit
+Flask
+Gunicorn
+pytelegrambotapi
+redislite
+requests
+Flask-SQLAlchemy
+SQLAlchemy
+psycopg2
+schedule
+flask-apscheduler
