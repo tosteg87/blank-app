@@ -8,3 +8,4 @@ SQLAlchemy
 psycopg2
 schedule
 flask-apscheduler
+streamlit
