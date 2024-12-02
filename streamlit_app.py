@@ -12,4 +12,4 @@ def start():
 if __name__ == '__main__':
     #t = Thread(target=start)
     #t.start()
-    app.run(debug=Truesd)
+    app.run(debug=True)
