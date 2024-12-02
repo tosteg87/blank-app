@@ -5,6 +5,7 @@ redislite
 requests
 Flask-SQLAlchemy
 SQLAlchemy
+psycopg2
 schedule
 flask-apscheduler
 streamlit
