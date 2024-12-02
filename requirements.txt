@@ -6,6 +6,6 @@ redislite
 requests
 Flask-SQLAlchemy
 SQLAlchemy
-psycopg2
+psycopg2-binary
 schedule
 flask-apscheduler
