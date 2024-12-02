@@ -1,3 +1,4 @@
+streamlit
 Flask
 Gunicorn
 pytelegrambotapi
@@ -8,4 +9,3 @@ SQLAlchemy
 psycopg2
 schedule
 flask-apscheduler
-streamlit
