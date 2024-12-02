@@ -1,6 +1,7 @@
 import time
 from threading import Thread
 import os
+from app import app
 
 #port=int(os.getenv('PORT'), 10000)
 
